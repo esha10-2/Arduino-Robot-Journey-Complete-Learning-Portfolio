@@ -16,7 +16,9 @@ Technical Specifications :
 Software Stack :
 
 Platform : Arduinjo IDE 2.0+
+
 Language : Embedded C++ (Arduino Framework)
+
 Communication : Serial UART @ 9600 baud
 
 Progressive Learning Experiments :
