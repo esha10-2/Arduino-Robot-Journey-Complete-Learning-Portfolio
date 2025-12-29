@@ -84,7 +84,7 @@ Esha Purakayastha creates documentation branch
 After circuit is working : 
 Debarghya Samanta creates schematic branch
 
-# Debarghya Samanta Creates/updates  :
+### Debarghya Samanta Creates/updates  :
 
 1. TinkerCad files
 
@@ -92,7 +92,7 @@ Debarghya Samanta creates schematic branch
 
 3. Connections tables
 
-# Esha Purakayastha provides :
+### Esha Purakayastha provides :
 
 1. Clear descriptions for the diagrams
 
@@ -119,7 +119,7 @@ Both review, then merge.
 ## Credit sharing :
 
 
-In presentations : We b uilt together, Debarghya Samanta led schematics, Esha Purakayastha led documentation.
+In presentations : We built together, Debarghya Samanta led schematics, Esha Purakayastha led documentation.
 
 On GitHub : Both listed as contributors.
 
