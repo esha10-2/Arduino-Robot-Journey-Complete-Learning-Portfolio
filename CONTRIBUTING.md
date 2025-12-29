@@ -14,7 +14,7 @@
 
 Esha Purakayastha : Documentation Lead, README files, GitHub organization, Testing procedures, Final Report   (gmail : purakayasthaesha@gmail.com  |  github : esha10-2)
 
-Debarghya Samanta : Hardware Schematic and Assembly Lead, Circuit Diagrams, Component Specifications, Wiring Validation, Technical Diagrams   (gmail :  | github : )
+Debarghya Samanta : Hardware Schematic and Assembly Lead, Circuit Diagrams, Component Specifications, Wiring Validation, Technical Diagrams   (gmail : debarghyasamanta24@gmail.com | github : DebarghyaSamanta)
 
 Both (50-50) : Hardware Assembly, Sensor Integration, Power Management, Code Development, Testing, Debugging, Algorithm Implementation
 
