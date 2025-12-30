@@ -23,7 +23,7 @@ This repository documents my journey in building my first autonomous Arduino lin
 
 **Software Stack :**
 
-*Platform :* Arduinjo IDE 2.0+
+*Platform :* Arduino IDE 2.0+
 
 *Language :* Embedded C++ (Arduino Framework)
 
